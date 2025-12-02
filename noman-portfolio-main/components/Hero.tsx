@@ -73,7 +73,7 @@ const Hero: React.FC = () => {
                 <span className="text-blue-400 mr-2">developer</span>
                 <span className="text-white mr-2">=</span>
                 <span className="text-yellow-300">new</span>
-                <span className="text-shopify ml-2">Nauman</span>
+                <span className="text-shopify ml-2">Noman</span>
                 <span className="text-gray-400">();</span>
               </div>
               <div className="pl-4">

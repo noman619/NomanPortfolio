@@ -87,35 +87,51 @@ export const PROJECTS: Project[] = [
 export const EXPERIENCE: ExperienceItem[] = [
   {
     id: '1',
-    role: 'Senior Shopify Developer',
-    company: 'E-com Agency X',
-    period: '2021 - Present',
-    description: 'Leading a team of 5 developers building custom themes for Shopify Plus clients. Specialized in migration from Magento to Shopify.',
-    technologies: ['Shopify Plus', 'Liquid', 'React', 'Node.js']
+    role: 'Shopify Store Management (VA)',
+    company: 'Tactech',
+    period: '2024 - Present',
+    description: 'Shopify-focused eCommerce professional with deep experience in Shopify Plus store management, including product listings, collections architecture, SEO optimization, app integrations, theme updates, and operational workflows. Skilled in ensuring fast performance, accurate catalog management, and smooth order/returns processing to deliver a seamless customer experience.',
+    technologies: ['Shopify Plus', 'Liquid', 'CSS', 'Javascript', "Shopify Apps", "SEO", "Product Management", "Order Management", "Customer Service", "Ecommerce Operations"]
   },
   {
     id: '2',
-    role: 'Frontend Developer',
-    company: 'Creative Studio',
-    period: '2019 - 2021',
-    description: 'Developed pixel-perfect UIs for lifestyle brands. Focused on interaction design and micro-animations.',
-    technologies: ['Vue.js', 'SCSS', 'Webpack']
+    role: 'Shopify Store Designer & Developer',
+    company: 'Nova Creations',
+    period: '2022 - 2024',
+    description: 'Expert Shopify Store Designer & Developer with hands-on experience in custom theme design, Liquid coding, and responsive UI/UX. Skilled in creating Print on Demand, Dropshipping, eBook, single-product, and multi-product stores, including product listings, collections, SEO, app integrations, and full store setup. Dedicated to building high-performing, visually appealing, and fully functional Shopify stores that enhance user experience and drive sales.',
+    technologies: ['Print-on-demand', 'ebook', 'Dropshipping', "Single-product", "Multi-product", "UI/UX Design", "Liquid", "Shopify Apps", "SEO", "Responsive Design"]
   },
   {
     id: '3',
-    role: 'Freelance Web Developer',
-    company: 'Self-Employed',
-    period: '2017 - 2019',
-    description: 'Helped small businesses launch their first online stores using Shopify and WordPress.',
-    technologies: ['Shopify', 'WordPress', 'PHP']
+    role: 'Amazon Virtual Assistant(PL)',
+    company: 'Freelance',
+    period: '2021 - 2022',
+    description: 'Amazon Virtual Assistant from Enablers with expertise in product listings, Amazon SEO, inventory management, and seller account operations.',
+    technologies: ['Amazon', 'Virtual Assistant', 'Private Label', 'Product Listings', 'Inventory Management', 'SEO', 'Customer Service', 'Ecommerce Operations']
+  },
+  {
+    id: '4',
+    role: 'Frontend Designer & Developer (UI/UX)',
+    company: 'Ozient Technologies',
+    period: '2019 - 2021',
+    description: 'Creative and detail-oriented Frontend Designer & UI/UX Developer with expertise in designing responsive, user-friendly websites using HTML, CSS, Bootstrap, JavaScript, and jQuery. Experienced in translating UI/UX designs into clean, efficient code while ensuring cross-browser compatibility, mobile responsiveness, and fast loading performance.',
+    technologies: ['Themeforest', 'UI/UX Design', 'TemplateMonster', 'Mobile Responsive Design', 'User Experience', 'Multi-purpose Layouts', 'Clean Code', 'Multi-browser Compatibility']
+  },
+  {
+    id: '5',
+    role: 'DotNet Designer & Developer (Intern)',
+    company: 'Express Software Solutions',
+    period: '2018 - 2019',
+    description: 'Intern DotNet Designer & Developer with hands-on experience in designing and developing web applications using ASP.NET, C#, and SQL.',
+    technologies: ['.net', 'UI/UX Design', 'Mobile Responsive Design', 'User Experience', 'Frontend Design', 'Clean Code', ' MySQL', "Html", "Css", "Javascript" ]
   }
 ];
 
 export const SKILLS: Skill[] = [
-  { name: 'Shopify Liquid', icon: Code, level: 95, color: '#96bf48' },
-  { name: 'React / Hydrogen', icon: Zap, level: 90, color: '#61dafb' },
-  { name: 'UX/UI Design', icon: Layout, level: 85, color: '#f06292' },
-  { name: 'App Development', icon: Database, level: 80, color: '#ffb74d' },
+  { name: 'Shopify Liquid', icon: Code, level: 90, color: '#96bf48' },
+  { name: 'React / Tailwind CSS', icon: Zap, level: 80, color: '#61dafb' },
+  { name: 'UX/UI Design', icon: Layout, level: 95, color: '#f06292' },
+  { name: 'Ecommerce Management', icon: Database, level: 88, color: '#ffb74d' },
 ];
 
 export const SERVICES: Service[] = [

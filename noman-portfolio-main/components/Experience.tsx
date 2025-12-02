@@ -78,7 +78,7 @@ const Experience: React.FC = () => {
             <div className="mt-10 pt-8 border-t border-white/5">
               <h4 className="text-sm font-semibold text-gray-400 mb-4">Other Tools & Libraries</h4>
               <div className="flex flex-wrap gap-2">
-                {["Tailwind CSS", "Framer Motion", "Sanity CMS", "Next.js", "TypeScript", "GraphQL", "Polaris", "Figma", "Adobe XD"].map((tool) => (
+                {["Html","CSS","Tailwind CSS", "Bootstrap", "Javascript", "GSAP", "Shopify", "Shopify Plus", "React.js", "TypeScript", "Git", "Canva", "Google Sheets",].map((tool) => (
                   <span key={tool} className="px-3 py-1.5 bg-dark-900 text-gray-300 text-xs rounded-lg border border-white/5">
                     {tool}
                   </span>

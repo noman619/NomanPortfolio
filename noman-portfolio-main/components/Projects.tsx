@@ -174,16 +174,16 @@ const Projects: React.FC = () => {
             </div>
             <h2 className="text-4xl md:text-5xl font-bold mb-4">Selected Works</h2>
             <p className="text-gray-400 max-w-xl text-lg">
-                A showcase of immersive commerce experiences, featuring live stores and conceptual designs. Hover over cards to preview.
+                A showcase of immersive commerce experiences, featuring stores and conceptual designs. Hover over cards to preview.
             </p>
           </div>
-          <a 
+          {/* <a 
             href="#" 
             className="flex items-center gap-2 text-white border-b border-shopify pb-1 hover:text-shopify transition-colors group"
           >
             View Full Archive 
             <ExternalLink size={16} className="transform group-hover:translate-x-1 transition-transform" />
-          </a>
+          </a> */}
         </motion.div>
 
         <div className="grid md:grid-cols-2 gap-8 lg:gap-12">
