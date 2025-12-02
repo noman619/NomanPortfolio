@@ -44,12 +44,12 @@ const ProjectCard: React.FC<{ project: Project; index: number }> = ({ project, i
                       <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-black opacity-75"></span>
                       <span className="relative inline-flex rounded-full h-2 w-2 bg-black"></span>
                     </span>
-                    Live Store
+                    Client Transfer
                   </>
                 ) : (
                   <>
                     <Layout size={10} />
-                    Design Concept
+                    Client Transfer
                   </>
                 )}
             </span>
