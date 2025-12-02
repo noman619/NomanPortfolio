@@ -21,7 +21,7 @@ const Hero: React.FC = () => {
           </div>
           
           <h1 className="text-5xl md:text-7xl font-extrabold leading-tight mb-6">
-            Hi, I'm M. Nauman. <br />
+            Hi, I'm M. Noman. <br />
             I Build <span className="text-transparent bg-clip-text bg-gradient-to-r from-shopify to-green-300">Modern</span> <br />
             Shopify Stores.
           </h1>
