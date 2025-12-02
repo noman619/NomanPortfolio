@@ -12,13 +12,13 @@ export const NAV_LINKS = [
 export const PROJECTS: Project[] = [
   {
     id: '1',
-    title: 'Neon Streetwear',
-    category: 'Shopify Plus Store',
-    image: '/v1.png',
-    video: '/v1.mov',
+    title: 'Color Pops',
+    category: 'Shopify Store',
+    image: '/colouredpops-myshopify.png',
+    video: '/colouredpops-myshopify.mp4',
     isLive: true,
-    description: 'A high-performance headless Shopify store built with Hydrogen and Remix. Features real-time inventory and 3D product previews.',
-    tags: ['Hydrogen', 'React', 'Tailwind', 'Sanity CMS'],
+    description: 'A high-performance Shopify store built with Liquid and Javascript. Features custom product filters and a dynamic shopping experience.',
+    tags: ['Liquid', 'Css', 'Jacvascript'],
     stats: [{ label: 'Performance', value: '99/100' }, { label: 'Conversion', value: '+45%' }],
     link: '#'
   },
