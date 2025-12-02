@@ -27,7 +27,7 @@ const Hero: React.FC = () => {
           </h1>
           
           <p className="text-lg text-gray-400 mb-8 max-w-lg leading-relaxed">
-            I'm a specialized Shopify Developer creating high-converting, pixel-perfect e-commerce experiences and headless solutions that help brands stand out.
+            I'm a specialized Shopify Developer creating high-converting, pixel-perfect e-commerce experiences solutions that help brands stand out.
           </p>
           
           <div className="flex flex-wrap gap-4">
@@ -46,8 +46,8 @@ const Hero: React.FC = () => {
           </div>
 
           <div className="mt-12 flex items-center gap-8 text-gray-500 text-sm font-mono">
+            <span>// SHOPIFY</span>
             <span>// SHOPIFY PLUS</span>
-            <span>// HYDROGEN</span>
             <span>// LIQUID</span>
           </div>
         </motion.div>

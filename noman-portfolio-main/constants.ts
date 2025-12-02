@@ -120,23 +120,23 @@ export const SKILLS: Skill[] = [
 
 export const SERVICES: Service[] = [
   {
-    title: 'Custom Theme Development',
+    title: 'Custom Theme Development & Design',
     description: 'Bespoke Shopify themes built from scratch using Liquid 2.0 and Tailwind CSS for maximum speed.',
     icon: Layout
   },
   {
-    title: 'Headless Commerce',
-    description: 'Next-gen storefronts using Hydrogen or Next.js for ultimate flexibility and performance.',
+    title: 'Custom Sections & Blocks',
+    description: 'Custom Liquid section with block-based content for easy editing in the theme editor.',
     icon: Zap
   },
   {
-    title: 'App Development',
-    description: 'Custom private or public apps to extend Shopify functionality tailored to your business needs.',
+    title: 'Speed Optimization',
+    description: 'Enhance website loading time through professional speed optimization techniques.',
     icon: Smartphone
   },
   {
-    title: 'Store Migration',
-    description: 'Seamless migration from WooCommerce, Magento, or BigCommerce to Shopify Plus.',
+    title: 'App Integrations',
+    description: 'Add essential apps to improve functionality, automation, and customer experience.',
     icon: Globe
   }
 ];
