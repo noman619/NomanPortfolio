@@ -26,7 +26,7 @@ const Navbar: React.FC = () => {
           <div className="bg-shopify text-black p-1.5 rounded-lg group-hover:rotate-12 transition-transform">
             <Code2 size={20} strokeWidth={2.5} />
           </div>
-          <span className="font-bold text-xl tracking-tight">M.<span className="text-shopify">Nauman</span></span>
+          <span className="font-bold text-xl tracking-tight">M.<span className="text-shopify">Noman</span></span>
         </a>
 
         {/* Desktop Nav */}
