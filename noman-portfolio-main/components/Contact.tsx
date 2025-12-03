@@ -33,7 +33,7 @@ const Contact: React.FC = () => {
           <a href="https://github.com/noman619" className="hover:text-shopify transition-colors transform hover:-translate-y-1 block">
             <Github size={24} />
           </a>
-          <a href="#" className="hover:text-shopify transition-colors transform hover:-translate-y-1 block">
+          <a href="https://www.linkedin.com/in/muhammad-noman-aaab522b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="hover:text-shopify transition-colors transform hover:-translate-y-1 block">
             <Linkedin size={24} />
           </a>
           {/* <a href="#" className="hover:text-shopify transition-colors transform hover:-translate-y-1 block">
