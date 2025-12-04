@@ -26,7 +26,7 @@ const Navbar: React.FC = () => {
           <div className="bg-shopify text-black p-1.5 rounded-lg group-hover:rotate-12 transition-transform">
             <Code2 size={20} strokeWidth={2.5} />
           </div>
-          <span className="font-bold text-xl tracking-tight">M.<span className="text-shopify">Noman</span></span>
+          <span className="font-bold text-xl tracking-tight">M.<span className="text-shopify">Noman Naveed</span></span>
         </a>
 
         {/* Desktop Nav */}
@@ -78,8 +78,8 @@ const Navbar: React.FC = () => {
                 </a>
               ))}
               <a 
-                href="#contact"
-                onClick={() => setIsOpen(false)} 
+                href="#mailto:mnomannaveed007@gmail.com"
+                onClick={() => setIsOpen(true)} 
                 className="text-center px-5 py-3 bg-shopify text-white font-semibold rounded-lg mt-4"
               >
                 Start a Project
