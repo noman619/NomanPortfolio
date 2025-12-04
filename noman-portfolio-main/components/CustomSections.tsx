@@ -44,12 +44,12 @@ const ProjectCard: React.FC<{ project: Project; index: number }> = ({ project, i
                       <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-black opacity-75"></span>
                       <span className="relative inline-flex rounded-full h-2 w-2 bg-black"></span>
                     </span>
-                    Client Transfer
+                    Exclusive
                   </>
                 ) : (
                   <>
                     <Layout size={10} />
-                    Client Transfer
+                    Exclusive
                   </>
                 )}
             </span>
@@ -96,14 +96,14 @@ const ProjectCard: React.FC<{ project: Project; index: number }> = ({ project, i
         <div className="absolute inset-0 bg-gradient-to-t from-dark-900 via-dark-900/40 to-transparent opacity-60 group-hover:opacity-40 transition-opacity duration-300" />
 
         {/* Floating Action Button */}
-        <div className="absolute top-4 right-4 z-20 opacity-0 group-hover:opacity-100 transform translate-y-2 group-hover:translate-y-0 transition-all duration-300">
+        {/* <div className="absolute top-4 right-4 z-20 opacity-0 group-hover:opacity-100 transform translate-y-2 group-hover:translate-y-0 transition-all duration-300">
              <a 
                 href={project.link || '#'}
                 className="w-10 h-10 bg-shopify rounded-full flex items-center justify-center text-black hover:bg-white transition-colors shadow-lg shadow-black/50"
              >
                  <ArrowUpRight size={20} strokeWidth={2.5} />
              </a>
-        </div>
+        </div> */}
       </div>
 
       {/* Content */}
