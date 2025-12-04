@@ -80,6 +80,54 @@ export const PROJECTS: Project[] = [
     tags: ['Liquid', 'Css', 'Javascript', 'Client Transfer', 'Custom Design', 'Custom Dividers', "Custom Sections", "Custom Blocks", "Women Fashion", "Ecommerce" ],
     stats: [{ label: 'Performance', value: '96/100' }, { label: 'Conversion', value: '+57%' }],
     link: '#'
+  },
+  {
+    id: '7',
+    title: 'Pet Zone',
+    category: 'Dropshipping Store',
+    image: '/petzone.png',
+    video: '/petzone.mp4',
+    isLive: true,
+    description: 'A high-performance Shopify dropshipping store built on premium theme. Features exclusive design concept for pet products.',
+    tags: ['Liquid', 'Css', 'Javascript', 'Client Transfer', 'User-friendly Design', "Premium Theme", "Pet Products", "Ecommerce", "Dropshipping" ],
+    stats: [{ label: 'Performance', value: '96/100' }, { label: 'Conversion', value: '+57%' }],
+    link: '#'
+  },
+  {
+    id: '8',
+    title: 'My Choice',
+    category: 'Print on Demand Store',
+    image: '/mychoice.png',
+    video: '/mychoice.mp4',
+    isLive: true,
+    description: 'A high-performance Shopify Print on Demand store built on premium theme. Features exclusive design concept for pet products.',
+    tags: ['Liquid', 'Css', 'Javascript', 'Client Transfer', 'User-friendly Design', "Premium Theme", "Lifestyle Products", "Ecommerce", "Print on Demand", "POD", ],
+    stats: [{ label: 'Performance', value: '89/100' }, { label: 'Conversion', value: '+51%' }],
+    link: '#'
+  },
+  {
+    id: '9',
+    title: 'Electro',
+    category: 'Single Product Store',
+    image: '/Electro.png',
+    video: '/Electro.mp4',
+    isLive: true,
+    description: 'A high-performance Shopify single product dropshipping store built on premium theme. Features exclusive design concept for pet products.',
+    tags: ['Liquid', 'Css', 'Javascript', 'Client Transfer', 'User-friendly Design', "Premium Theme", "Massage Gun Product", "Ecommerce", "Single Product", "Single Product Store", ],
+    stats: [{ label: 'Performance', value: '89/100' }, { label: 'Conversion', value: '+51%' }],
+    link: '#'
+  },
+  {
+    id: '10',
+    title: 'Travel Bag',
+    category: 'Multi Product Store',
+    image: '/travelbag.png',
+    video: '/travelbag.mp4',
+    isLive: true,
+    description: 'A high-performance Shopify dropshipping store built on premium theme. Features exclusive design concept for pet products.',
+    tags: ['Liquid', 'Css', 'Javascript', 'Client Transfer', 'User-friendly Design', "Premium Theme", "Travel", "Ecommerce", "Multi Product", "Multi Product Store", ],
+    stats: [{ label: 'Performance', value: '93/100' }, { label: 'Conversion', value: '+57%' }],
+    link: '#'
   }
 ];
 

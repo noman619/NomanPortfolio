@@ -108,7 +108,7 @@ const ProjectCard: React.FC<{ project: Project; index: number }> = ({ project, i
 
       {/* Content */}
       <div className="p-6 relative z-10 -mt-6 bg-gradient-to-b from-transparent to-dark-800">
-        <div className="flex justify-between items-start mb-3">
+        <div className="flex justify-between items-start mb-3 pt-4">
           <h3 className="text-2xl font-bold text-white group-hover:text-shopify transition-colors duration-300">
             {project.title}
           </h3>
@@ -174,7 +174,7 @@ const Projects: React.FC = () => {
             </div>
             <h2 className="text-4xl md:text-5xl font-bold mb-4">Selected Works</h2>
             <p className="text-gray-400 max-w-xl text-lg">
-                A showcase of immersive commerce experiences, featuring stores and conceptual designs. Hover over cards to preview.
+                A showcase of ecommerce shopify stores and conceptual designs.
             </p>
           </div>
           {/* <a 
