@@ -78,7 +78,7 @@ const Navbar: React.FC = () => {
                 </a>
               ))}
               <a 
-                href="#mailto:mnomannaveed007@gmail.com"
+                href="#contact"
                 onClick={() => setIsOpen(true)} 
                 className="text-center px-5 py-3 bg-shopify text-white font-semibold rounded-lg mt-4"
               >
